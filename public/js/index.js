@@ -138,6 +138,8 @@ function sendTransaction(isAdding) {
     // fetch failed, so save in indexed db
     saveRecord(transaction);
 
+    console.log(`"${nameEl.value}" could not be immediately posted. It will be when a better connection is established.`)
+
     // clear form
     nameEl.value = "";
     amountEl.value = "";

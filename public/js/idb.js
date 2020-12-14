@@ -63,7 +63,7 @@ function postSavedTransactions() {
 
           budgetObjectStore.clear();
 
-          console.log("All saved transactions were successfully posted.");
+          document.location.reload();
         })
         .catch((err) => console.log(err));
     }
