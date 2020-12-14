@@ -21,7 +21,7 @@ If a user is on a desktop, they simply need to install the application via the o
 
 
 ## Usage
-All that you need to do in order to use this application is type the name of the transaction, how much is being deposited or withdrawn, and selected "Add Funds" or "Subtract Funds".
+All that you need to do in order to use this application is type the name of the transaction, how much is being deposited or withdrawn, and selected "Add Funds" or "Subtract Funds". For a walkthrough, you can look at this [video](https://drive.google.com/file/d/1DrHDbeQ_mzLeQucDacjzYZ3CbjqdwMEm/view?usp=sharing).
 
 
 ## How to Contribute
